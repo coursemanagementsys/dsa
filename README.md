@@ -3,6 +3,7 @@
 Paste following dsa question into the online compiler. </br>
 https://www.interviewbit.com/online-java-compiler/
 </br>
+</br>
 Question : </br>
 
 Write a program that, given an array A[] of n numbers and another number x, determines whether or not there exist two elements in A[] whose sum is exactly x. </br>
@@ -25,6 +26,7 @@ Time Complexity: </br>
 Space Complexity: </br>
 
 */
+<pre>
 class Main {
 
 public static void main(String [] args) {
@@ -44,3 +46,4 @@ public static void main(String [] args) {
 // Implement your method here
 
 }
+</pre>
